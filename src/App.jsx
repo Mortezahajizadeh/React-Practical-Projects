@@ -1,10 +1,12 @@
-import Counter from "./assets/Counter";
-import Mycomponent from "./assets/Mycomponent";
+import ColorPicker from "./ColorPicker";
+import Counter from "./Counter";
+import Mycomponent from "./Mycomponent";
 
 function App() {
   return(
   //  <Counter />
-  <Mycomponent />
+  // <Mycomponent />
+  <ColorPicker />
   )
 }
 
