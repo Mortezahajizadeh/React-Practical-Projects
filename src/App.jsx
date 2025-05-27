@@ -8,8 +8,9 @@ function App() {
   //  <Counter />
   // <Mycomponent />
   // <ColorPicker />
-  <CarSelector />
-  )
+  // <CarSelector />
+    <></>
+)
 }
 
 export default App;
